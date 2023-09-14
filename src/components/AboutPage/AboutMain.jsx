@@ -28,10 +28,11 @@ function AboutMain() {
             <div className=" md:flex md:flex-col md:gap-5">
               <h3 className=" text-4xl">a few words about </h3>
               <h2 className=" text-[42px] md:text-7xl">Who We Are </h2>
-              <h1 className=" md:w-[600px] md:text-lg">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Dolores voluptates blanditiis explicabo laboriosam? Neque et
-                veniam ullam iste delectus natus,
+              <h1 className=" md:w-[700px] md:text-lg">
+                At Abrar Travel Wings, we believe that every journey is an
+                adventure waiting to be explored. Established in the heart of
+                Cochin, Kerala, we are your trusted travel partner dedicated to
+                making your travel dreams come true
               </h1>
             </div>
             <div className=" md:flex md:justify-between md:items-center">
@@ -39,25 +40,36 @@ function AboutMain() {
                 <img className=" w-full h-full object-cover" src={who} alt="" />
               </div>
               <h1 className=" md:w-[600px] md:text-lg">
-      
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Incidunt cupiditate omnis tempore magnam est voluptatem! Animi
-                necessitatibus iure repellat tempore adipisci qui quos, quasi
-                delectus molestias veniam natus provident iusto!
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Repellat voluptatum rerum aperiam beatae nemo aut eveniet eos
-                labore dolor sint quaerat amet praesentium necessitatibus
-                dolorem, qui asperiores maiores aspernatur non. <br />
+                At Abrar Travel Wings, we understand that travel is more than
+                just moving from one place to another; it's about immersing
+                yourself in unique cultures, savoring the beauty of diverse
+                landscapes, and creating memories that last a lifetime. This
+                belief drives us to offer a comprehensive range of services
+                designed to make your travel experiences seamless and
+                unforgettable. <br />
                 <br />
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Incidunt cupiditate omnis tempore magnam est voluptatem! Animi
-                necessitatibus iure repellat tempore adipisci qui quos, quasi
-                delectus molestias veniam natus provident iusto!
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Repellat voluptatum rerum aperiam beatae nemo aut eveniet eos
-                labore dolor sint quaerat amet praesentium necessitatibus
-                dolorem, qui asperiores maiores aspernatur non. <br />
-                
+                Our team at Abrar Travel Wings is the cornerstone of our
+                success. Comprising passionate travel enthusiasts, industry
+                veterans, and destination experts, our staff is committed to
+                turning your travel dreams into reality. With their wealth of
+                knowledge and unwavering dedication, they are always at your
+                service, ready to provide expert guidance, travel tips, and
+                personalized recommendations.
+                <br />
+                <br />
+                At Abrar Travel Wings, customer satisfaction isn't just a goal;
+                it's our guiding principle. We take pride in going the extra
+                mile to ensure that every aspect of your journey is meticulously
+                planned and executed to perfection. Your feedback fuels our
+                commitment to continuous improvement, ensuring that each
+                experience with us surpasses your expectations.
+                <br />
+                <br />
+                Abrar Travel Wings invites you to embark on a journey of a
+                lifetime. Whether you're a solo adventurer, a couple seeking a
+                romantic escape, or a family in pursuit of unforgettable
+                moments, we are here to make your travel dreams a reality. Join
+                us in exploring the world's wonders, one destination at a time. 
               </h1>
             </div>
           </div>

@@ -2,10 +2,10 @@ import React from "react";
 import bg from "../../assets/about.avif";
 import { useNavigate } from "react-router-dom";
 function About() {
-  const navigate = useNavigate()
+  const navigate = useNavigate();
   const navigateAbout = () => {
-    navigate('/about')
-  }
+    navigate("/about");
+  };
   return (
     <div className=" mt-10 w-full px-5 pb-5 text-[#414042] md:pb-32 md:px-10 md:flex md:justify-center">
       <div className=" flex flex-col gap-2 md:w-[1250px] ">
@@ -14,15 +14,17 @@ function About() {
             <h3 className=" text-2xl md:text-3xl">a few words</h3>
             <h2 className=" text-5xl md:text-7xl">About us</h2>
             <h1 className=" my-5 md:w-[500px]">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id,
-              tenetur illum! Veritatis, exercitationem et praesentium modi
-              maxime quia adipisci laboriosam neque suscipit facere doloremque
-              enim odio est nostrum molestiae. adipisci laboriosam neque
-              suscipit facere doloremque enim odio est nostrum molestiae.
-              adipisci laboriosam neque suscipit facere doloremque enim odio est
-              nostrum molestiae.
+              At Abrar Travel Wings, we believe that every journey is an
+              adventure waiting to be explored. Established in the heart of
+              Cochin, Kerala, we are your trusted travel partner dedicated to
+              making your travel dreams come true. With a passion for travel and
+              a commitment to excellence, we take pride in curating exceptional
+              travel experiences that leave lasting memories.
             </h1>
-            <div onClick={navigateAbout} className="hidden md:w-40 md:h-12 md:flex md:justify-center md:items-center md:bg-[#48A9A6] md:text-white">
+            <div
+              onClick={navigateAbout}
+              className="hidden md:w-40 md:h-12 md:flex md:justify-center md:items-center md:bg-[#48A9A6] md:text-white"
+            >
               <h1>Know More</h1>
             </div>
           </div>

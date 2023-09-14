@@ -22,9 +22,9 @@ function Home() {
                   Travel & Explore the World
                 </h2>
                 <h1 className=" md:w-[600px]">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Molestiae quo deserunt aut exercitationem molestias, nihil
-                  alias
+                  Travel is the ultimate storyteller, weaving tales of
+                  adventure, culture, and discovery. It's where landscapes
+                  become canvases
                 </h1>
               </div>
               <a href="https://wa.me/+918089104864">

@@ -45,9 +45,8 @@ function Contact() {
               Contact or Visit Us
             </h2>
             <h1 className=" md:w-[600px] md:text-lg">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-              recusandae sequi voluptas beatae tenetur ullam perferendis quae
-              aperiam
+              Have questions or need assistance? Reach out to our friendly team;
+              we're here to help you plan your perfect trip.
             </h1>
           </div>
           <div className=" flex flex-col gap-5">

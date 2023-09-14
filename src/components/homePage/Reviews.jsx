@@ -20,43 +20,45 @@ function Reviews() {
           <div className=" w-full h-auto md:flex md:py-20">
             <div className=" w-full h-auto bg-black bg-opacity-70 flex flex-col gap-10 justify-center px-10 py-10 md:h-[400px] ">
               <h1 className=" text-white">
-                "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus
-                est fugit quis delectus quisquam? Fugit, dicta? Velit sunt quis
-                est dicta mollitia dolores harum, natus sed eaque laudantium
-                voluptatum ab."
+                "Our family had an amazing vacation, all thanks to Abrar Travel
+                Wings! From start to finish, their attention to detail and
+                personalized service made our trip unforgettable. We can't wait
+                to book our next adventure with them."
               </h1>
               <Rating value={5} />
-              <h3 className=" text-3xl text-white">Lauren Munog</h3>
+              <h3 className=" text-3xl text-white">Sarah M.</h3>
             </div>
             <div className=" w-full h-auto bg-[#0c6f63] bg-opacity-70 flex flex-col gap-10 justify-center px-10 py-10 md:h-[400px]">
               <h1 className=" text-white">
-                "Proin gravida nibh vel velit auctor aliquet. Aenean
-                sollicitudin, lorem quis auctor, nisi elit consequat ipsum, nec
-                sagittis sem nibh id elit. Duis sed odio amet nibh cursus a sit
-                amet mauris."
+                "Abrar Travel Wings truly knows how to make dreams come true.
+                They tailored a perfect honeymoon package for us, and every
+                moment was filled with romance and adventure. The memories we
+                made will last a lifetime."
               </h1>
               <Rating value={5} />
-              <h3 className=" text-3xl text-white">Ronald Snyder</h3>
+              <h3 className=" text-3xl text-white">John & Emily</h3>
             </div>
             <div className=" w-full h-auto bg-black bg-opacity-70 flex flex-col gap-10 justify-center px-10 py-10 md:h-[400px]">
               <h1 className=" text-white">
-                "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus
-                est fugit quis delectus quisquam? Fugit, dicta? Velit sunt quis
-                est dicta mollitia dolores harum, natus sed eaque laudantium
-                voluptatum ab."
+                "I've been a loyal customer of Abrar Travel Wings for years, and
+                they never disappoint. Their dedication to customer satisfaction
+                is unmatched. They've taken care of all my travel needs, from
+                business trips to family vacations, with professionalism and a
+                personal touch."
               </h1>
               <Rating value={5} />
-              <h3 className=" text-3xl text-white">Lauren Munog</h3>
+              <h3 className=" text-3xl text-white">Michael R</h3>
             </div>
             <div className=" w-full h-auto bg-white bg-opacity-70 flex flex-col gap-10 justify-center px-10 py-10 md:h-[400px]">
               <h1 className=" text-black">
-                "Proin gravida nibh vel velit auctor aliquet. Aenean
-                sollicitudin, lorem quis auctor, nisi elit consequat ipsum, nec
-                sagittis sem nibh id elit. Duis sed odio amet nibh cursus a sit
-                amet mauris."
+                "I can't thank Abrar Travel Wings enough for making my solo
+                backpacking trip a breeze. Their recommendations,
+                accommodations, and local insights made my adventure safe and
+                exciting. I returned with unforgettable experiences and new
+                friends!"
               </h1>
               <Rating value={5} />
-              <h3 className=" text-3xl text-black">Jessica Hawkins</h3>
+              <h3 className=" text-3xl text-black">Jenniffer P</h3>
             </div>
           </div>
         </div>
